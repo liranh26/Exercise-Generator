@@ -1,0 +1,37 @@
+{
+  "app": {
+    "title": "מפיק מבחנים"
+  },
+  "common": {
+    "restart": "התחל מחדש"
+  },
+  "home": {
+    "selectLevel": "בחר רמה",
+    "startQuiz": "התחל מבחן",
+    "topicLabel": "הזן את נושא ההשאלות",
+    "topicPlaceholder": "למשל: מבני נתונים, ביטויים רגולריים...",
+    "start": "התחל מבחן"
+  },
+  "results": {
+    "title": "התוצאות שלך",
+    "score": "ציון: {{score}} / {{total}}",
+    "yourCorrect": "ענית נכון",
+    "yourAnswer": "ענית",
+    "noAnswer": "ללא תשובה",
+    "correctAnswer": "תשובה נכונה",
+    "explanation": "הסבר",
+    "retake": "נסה שוב",
+    "viewHistory": "הצג היסטוריה"
+  },
+  "quiz": {
+    "loading": "טוען שאלות...",
+    "error": "שגיאה בטעינת השאלות: {{message}}"
+  },
+  "history": {
+    "title": "היסטוריית מבחנים",
+    "noHistory": "לא נעשה מבחן עדיין",
+    "date": "תאריך",
+    "level": "רמה",
+    "score": "ציון"
+  }
+}

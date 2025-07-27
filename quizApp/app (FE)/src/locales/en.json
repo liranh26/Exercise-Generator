@@ -1,0 +1,40 @@
+{
+  "app": {
+    "title": "Quiz Generator"
+  },
+  "common": {
+    "restart": "Restart"
+  },
+  "home": {
+    "selectLevel": "Select Level",
+    "startQuiz": "Start Quiz",
+    "topicLabel": "Insert quiz topic: ",
+    "topicPlaceholder": "For Example: Israel",
+    "start": "start quiz"
+  },
+  "results": {
+    "title": "Your Results",
+    "score": "Score: {{score}} / {{total}}",
+    "yourCorrect": "Your answer is correct",
+    "yourAnswer": "Your answer",
+    "noAnswer": "No answer",
+    "correctAnswer": "Correct answer",
+    "explanation": "Explanation",
+    "retake": "Retake Quiz",
+    "viewHistory": "View History"
+  },
+  "quiz": {
+    "loading": "Loading questions...",
+    "error": "Error loading questions: {{message}}",
+    "next": "next",
+    "prev": "prev",
+    "finish": "finish"
+  },
+  "history": {
+    "title": "Quiz History",
+    "noHistory": "No quiz attempts yet",
+    "date": "Date",
+    "level": "Level",
+    "score": "Score"
+  }
+}
